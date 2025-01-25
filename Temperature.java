@@ -21,3 +21,20 @@ public class Temperature {
         }
     }
 }
+
+/* Output 
+Temperature Converter
+Enter temperature: 12
+Convert to:
+1. Fahrenheit
+2. Celsius
+1
+Temperature in Fahrenheit: 53.6
+
+Temperature Converter
+Enter temperature: 133
+Convert to:
+1. Fahrenheit
+2. Celsius
+2
+Temperature in Celsius: 56.111111111111114 */
