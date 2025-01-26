@@ -18,3 +18,9 @@ public class CompareTwoNums {
         scanner.close();
     }
 }
+
+/* Output
+Enter the first number: 12
+Enter the second number: 34
+The second number (34.0) is greater.
+*/
