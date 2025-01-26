@@ -19,3 +19,16 @@ public class CompareNumbers {
         scanner.close();
     }
 }
+
+/* Output
+Enter the first number: 23
+Enter the second number: 34
+
+Comparison Results:
+23.0 > 34.0 is false
+23.0 >= 34.0 is false
+23.0 < 34.0 is true
+23.0 <= 34.0 is true
+23.0 == 34.0 is false
+23.0 != 34.0 is true
+*/
