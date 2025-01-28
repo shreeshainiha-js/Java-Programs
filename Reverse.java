@@ -1,8 +1,8 @@
 public class ReverseString{
 	public static void main(String [] args)
 	{
-	String input="Hello";
-	String reversed=reverseString(input);
+	String input="Hello world java";
+	String reversed=reverseString(input);// call the function defined.
 	System.out.println("Reversed string:" + reversed);
 	}
 	public static String reverseString(String str)
@@ -14,3 +14,7 @@ public class ReverseString{
 	return reversed;
 	}
 }
+
+/* Output
+Reversed string:avaj dlrow olleH
+*/
