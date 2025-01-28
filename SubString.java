@@ -11,3 +11,13 @@ class Substring{
 	}
 	}
 }
+
+
+/* Output
+s
+sa
+sak
+a
+ak
+k
+*/
